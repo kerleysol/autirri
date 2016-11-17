@@ -11,7 +11,7 @@ Farmer = require('./models/farmer')
 
 
 app.get('/', function (req, res) {
-	res.send("Autirri - Kerley Dantas");
+	res.send("Autirri - Kerley de Sousa Dantas");
 });
 
 app.get('/farmer', function (req, res) {
